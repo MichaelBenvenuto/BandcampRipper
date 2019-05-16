@@ -32,9 +32,9 @@ You need to add at least one of the following arguments:
 
 |Argument|Description|
 |---|---|
-|`-d`| Downloads all songs from an artist|
-|`-a`| Downloads all songs from an album|
-|`both -d and -a`| This actually defaults to -d, you'll need to specify a link to an artist's bandcamp page, otherwise it will crash|
+|`-d`| Downloads all songs from an artist (__give a link__)|
+|`-a`| Downloads all songs from an album (__give a link__)|
+|`both -d and -a`| This actually defaults to -d, so you'll need to specify a link to an artist's bandcamp page, otherwise it will crash|
 
 __This also downloads and tags the mp3 files with the appropriate title, artist, album art, etc. as long as mutagen is added to your libraries__
 
@@ -44,31 +44,32 @@ Q: Wtf? why did you make this?
 
 A: No please, go away i answered that already.
 
-
+---
 Q: You're a butt for making this i hope you go commit not breathe
 
 A: Hey now, thats not cool.
 
+---
 Q: Mike, my guy hows it going?
 
 A: :sunglasses::droplet:
 
-
+---
 Q: Oh my god you're the next Stephen Jobert for making this
 
 A: I know, I know, I live with my parents still... Contribute to my 401k paypal account! :runner::dash:
 
-
+---
 Q: Is this educational?
 
 A: Duh, I wouldnt post this if it didnt help you out a little
 
-
+---
 Q: Why are there no comments?
 
 A: Because i havent gotten to it yet, jeez, what are you, my mother?
 
-
+---
 Q: Yes i'm your mother
 
 A: Okay, sorry mom :heart:
