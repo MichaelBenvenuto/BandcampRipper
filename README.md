@@ -41,22 +41,34 @@ __This also downloads and tags the mp3 files with the appropriate title, artist,
 ---
 ## FAQ
 Q: Wtf? why did you make this?
+
 A: No please, go away i answered that already.
 
+
 Q: You're a butt for making this i hope you go commit not breathe
+
 A: Hey now, thats not cool.
 
 Q: Mike, my guy hows it going?
+
 A: :sunglasses::droplet:
 
+
 Q: Oh my god you're the next Stephen Jobert for making this
+
 A: I know, I know, I live with my parents still... Contribute to my 401k paypal account! :runner::dash:
 
+
 Q: Is this educational?
+
 A: Duh, I wouldnt post this if it didnt help you out a little
 
+
 Q: Why are there no comments?
+
 A: Because i havent gotten to it yet, jeez, what are you, my mother?
 
+
 Q: Yes i'm your mother
+
 A: Okay, sorry mom :heart:
